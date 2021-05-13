@@ -9,11 +9,11 @@ I no longer actively run Windows, post Windows 7 EOL in [January 2020].
 I am running MX Linux on bare metal as well as on a VM using ESXi. I actively use 6 other VM's including 
 
 - 🔭 I’m currently working on:
-  [] RadioLogger, A SWL and Radio Hobby related contact logging app in PostgreSQL, Express, REACT, NodeJS.
-  [] SPMS ERP/MRP, A ERP/MRP app in the same stack as above, a replacement for Odoo, JobBoss, E2 Shop, etc.
-  [] The Art of Tech:NPWAFT website for our group.
-  [] SPMS's website to replace the one on Webs.com 
-  [] Personal Blog, Portfoilio site in WordPress
+  - RadioLogger, A SWL and Radio Hobby related contact logging app in PostgreSQL, Express, REACT, NodeJS.
+  - SPMS ERP/MRP, A ERP/MRP app in the same stack as above, a replacement for Odoo, JobBoss, E2 Shop, etc.
+  - The Art of Tech:NPWAFT website for our group.
+  - SPMS's website to replace the one on Webs.com 
+  - Personal Blog, Portfoilio site in WordPress
   
 - 🌱 I’m currently learning HTML5, CSS3, ES5/ES6 Javascript, REACT, NodeJS, Express, PostgreSQL.  I am also trying to learn components like Babel, Webpack, etc.
      
@@ -34,10 +34,10 @@ Looking for people to help develop and/or serve our website and email, which lik
 - I often ask for help code reviews while I learn new things, especially on coding streams on Twitch or in various Discord servers I participate in..  Keep in mind that my primary experience came from pre-2003 coding tools and technologies especially within Windows.  I wrote my first website which was hosted on AOL and also on Earthlink for a short time in the late 90s.
 
 - My code base has historically been:
-  [] Microsoft BASIC on 8 and 16 bit systems.
-  [] Zilog Z-80, MOS 6502, Motorola 680x0 and Intel 8086/8088 processor develompent in C, BASIC and Assembly
-  [] HTML, CSS, Javascript, SQL, PHP and Ajax.
-  [] Writing drivers in C for 'Legacy' devices once Plug-n-Play came into play where the Generic Windows Device Drivers library did not identify the device correctly or much less than that actually work.
+  - Microsoft BASIC on 8 and 16 bit systems.
+  - Zilog Z-80, MOS 6502, Motorola 680x0 and Intel 8086/8088 processor develompent in C, BASIC and Assembly
+  - HTML, CSS, Javascript, SQL, PHP and Ajax.
+  - Writing drivers in C for 'Legacy' devices once Plug-n-Play came into play where the Generic Windows Device Drivers library did not identify the device correctly or much less than that actually work.
   
 
 -  😄 Pronouns: ...
