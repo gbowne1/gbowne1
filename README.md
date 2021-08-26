@@ -4,13 +4,15 @@ I do not work as a developer out in the wild.  I am not looking for a job in a d
 
 I have tons of hobbies and most of them are crafts.  I also enjoy tech hobbies and programming.  I used to do a lot of coding pre-2003 but had to stop in order to focus on the growth of business. I used to love building PC's and will get into doing that again.  I have done most of my own IT work for my home and business with the help of a couple friends I have met over the years.
 
+I also am into radio and electrionics hobbies, as well as designing computers in the 8, 16 and early 32bit realm.
+
 My current system is based on a newer generation of Intel Core i5 at almost 4GHz and is fine for my needs.  I have 32GB of RAM and a 2gb Nvidia Quadra 4000 and a total local disk space of 8TB. I have several home servers including mostly Dell R series including R710, R720 and R730's and a pair of MD1200's.  I have a 2nd system for doing CAD and CAM programming for CNC machinery.
 
 I no longer actively run Windows, post Windows 7 EOL in [January 2020].
 
-I am running MX Linux on bare metal as well as on a VM using ESXi. I actively use 9 other VM's including CentOS, EndeavourOS, Fedora, Debian, Manjaro, Mint, Ubuntu and Arch, although I am no huge fan of Arch. I also have a FreeBSD VM.  My favorite distro base is Debian.
+I am running MX Linux on bare metal as well as on a VM using ESXi. I actively use 9 other VM's including CentOS, EndeavourOS, Fedora, Debian, Manjaro, Mint, Ubuntu and Arch, although I am no huge fan of Arch. I also have a FreeBSD VM.  My favorite distro base is Debian.  
 
-My  base editor is Visual Studio Code.  My alternate is Sublime.
+My base editor is Visual Studio Code.  My alternate is Sublime.  Yes, I have used others.
 
 - 🔭 I’m currently working on:
   - RadioLogger, A SWL and Radio Hobby related contact logging app in PostgreSQL, Express, REACT, NodeJS.
@@ -18,18 +20,23 @@ My  base editor is Visual Studio Code.  My alternate is Sublime.
   - The Art of Tech:NPWAFT website for our group.
   - SPMS's website to replace the one on Webs.com 
   - Personal Blog, Portfoilio site in WordPress
+  - TwitchBot for Twitch Streamers in Javascript using TMI.js
+
+As for a "License" I chose GNU GPL 3.0 as it seems to fit my style.
   
 - 🌱 I’m currently learning HTML5, CSS3, ES5/ES6 Javascript, REACT, NodeJS, Express, PostgreSQL.  I am also trying to learn components like Babel, Webpack, etc.
 
 - 👯 I’m looking to invite people to help with and collaborate with me on TwitchBot and RadioLogger and SPMS ERP/MRP especially and gain community contributions to the projects.
 
-- 🤔 
+- 🤔 If you need help with a project.  I sometimes contribute to open source projects.. but generally only have time to give advice.  I am truly sorry I couldn't help more.
 
 - 💬 Ask me about The Art of Tech: Not Playing with a Full Tech which is a social media tech group.  We encourage you to join and become part of our awesome community we are trying to build of people that work in IT and programming and various other tech fields as well as hobbyists that enjoy tech.
  
     {Please see this link for our links: https://linktr.ee/taotnpwaft}
  
-Looking for people to help develop and/or serve our website and email, which likely will reside at https://www.taotnpwaft.org
+Looking for people to help develop and/or serve our website and email, which likely will reside at https://www.taotnpwaft.org 
+
+We are on a mission to gain at least 40 more active participating members. It doesn't cost you anything to join.  Especially in our Discord Server.  Most of us currently in the group, are or have been once in the tech fields.. IT, Networking, Programming, Systems Admin.. etc.
     
 - 🤔 I’m looking for help with our tech group..  Staff, Admins, Moderators, content creators, etc.  Click on each green link which will take you to the various links for our groups.  We mainly chat on Discord.  I am looking for someone to help with posting content to our YouTube and our Facebook.   
     
@@ -43,8 +50,9 @@ Looking for people to help develop and/or serve our website and email, which lik
   - HTML, CSS, Javascript, SQL, PHP and Ajax.
   - Writing drivers in C for 'Legacy' devices once Plug-n-Play came into play where the Generic Windows Device Drivers library did not identify the device correctly or much less than that actually work.
   
+  Other
 
--  😄 Pronouns: ...
+-  😄 Pronouns: ... He, Him however I prefer you actually refer to me by name.
 
 - ⚡ Fun fact: ...
--->
+--> I don't really have any good fun facts but you are always welcome to ask me anything related to the above.  I know stuff, just not all the things.
