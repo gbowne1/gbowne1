@@ -6,7 +6,7 @@ I have tons of hobbies and most of them are crafts.  I also enjoy tech hobbies a
 
 I also am into radio and electrionics hobbies, as well as designing computers in the 8, 16 and early 32bit realm.
 
-My current system is based on a newer generation of Intel Core i5 at almost 4GHz and is fine for my needs.  I have 32GB of RAM and a 2gb Nvidia Quadra 4000 and a total local disk space of 8TB. I have several home servers including mostly Dell R series including R710, R720 and R730's and a pair of MD1200's.  I have a 2nd system for doing CAD and CAM programming for CNC machinery.
+My current system is based on a newer generation of Intel Core i7 at almost 4GHz and is fine for my needs.  I have 32GB of RAM and a 2gb Nvidia Quadra 4000 and a total local disk space of 8TB. I have several home servers including mostly Dell R series including R710, R720 and R730's and a pair of MD1200's.  I have a 2nd system for doing CAD and CAM programming for CNC machinery.
 
 I no longer actively run Windows, post Windows 7 EOL in [January 2020].
 
