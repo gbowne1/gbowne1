@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Gregory Bowne aka gbowne1.  I am a 44 year old small business owner in the manufacturing sector.  I own a machine and fabrication / engineering workshop with ~250 employees as of 4/30/2021.  I also do manufacturing consulting as well as ERP & MRP software consutling for the major ERP and MRP software packages for regional manufacturing compaines and small machine shops.
+Hi there 👋 my name is Gregory Bowne aka gbowne1.  I am a 44 year old small business owner in the manufacturing sector.  I own a machine and fabrication / engineering workshop with ~250 employees as of 4/30/2021.  I also do manufacturing consulting as well as ERP & MRP software consutling for the major ERP and MRP software packages for regional manufacturing compaines and small machine shops.
 
 Some people have a hard time pronouncing my last name properly, so I prefer most people call me Greg or GB.  But if you go to this website and listen to the audio you can hear the correct pronunciation.  https://www.howtopronounce.com/bowne
 
@@ -12,6 +12,18 @@ I have tons of hobbies and most of them are crafts.  I also enjoy tech hobbies a
 
 I also am into radio and electrionics hobbies, as well as designing computers in the 8, 16 and early 32bit realm.  
 
+  --My current electronics projects are on Hackaday.io but i have not had time to update them.
+    * a 68030 50MHz system 
+    * a dual CPU computer that has a Z80 and a 8086/8088 CPU.  [almost like the Digital [DEC] Rainbow 100]
+    * a rackmount VHF-UHF scanner with quad DSP
+    * a multi-board/planar CNC control
+    * a computer based on a Motorola MC68000P8 CPU chip and 16MB
+    * a EATX size Socket 462 mainboard/motherboard
+    * a dual Pentium II mainboard/motherboard
+    
+  -- to recreate boards for the Mac Plus and SE / SE-30
+  
+    
 I am currently working on several long term electronics projects including mostly computers in the Motorola 68k and also a few others.
 
 My current system is based on a newer generation of Intel Core i7 at almost 4GHz and is fine for my needs.  I have 32GB of RAM and a 2gb Nvidia Quadra 4000 and a total local disk space of 8TB. I have several home servers including mostly Dell R series including R710, R720 and R730's and a pair of MD1200's.  I have a 2nd system for doing CAD and CAM programming for CNC machinery.
@@ -20,7 +32,7 @@ I no longer actively run Windows, post Windows 7 EOL in [January 2020].  I have 
 
 I am running MX Linux on bare metal as well as on a VM using ESXi. I actively use 9 other VM's including CentOS, EndeavourOS, Fedora, Debian, Manjaro, Mint, Ubuntu and Arch, although I am no huge fan of Arch. I also have a FreeBSD VM.  My favorite distro base is Debian.  
 
-My base editor is Visual Studio Code.  My alternate is Sublime.  Yes, I have others installed and have used others.
+My base editor is Visual Studio Code.  My alternate is Sublime.  Yes, I have others installed and have used others especially Visual Studio 2019.
 
 - 🔭 I’m currently working on:
   - RadioLogger, A SWL and Radio Hobby related contact logging app in PostgreSQL, Express, REACT, NodeJS.
@@ -29,6 +41,13 @@ My base editor is Visual Studio Code.  My alternate is Sublime.  Yes, I have oth
   - SPMS's website to replace the one on Webs.com 
   - Personal Blog, Portfoilio site in WordPress
   - TwitchBot for Twitch Streamers in Javascript using TMI.js
+
+- TODO's and Future projects
+   - TODO & Task Tracker
+   - Python Calculator
+   - x86 IA-32 OS and BIOS
+   - C++ Gradebook
+   - C++ Accounting System
 
 As for a "License" I chose GNU GPL 3.0 as it seems to fit my style.
   
@@ -52,11 +71,17 @@ We are on a mission to gain at least 40 more active participating members. It do
 
 - I often ask for help code reviews while I learn new things, especially on coding streams on Twitch or in various Discord servers I participate in..  Keep in mind that my primary experience came from pre-2003 coding tools and technologies especially within Windows.  I wrote my first website which was hosted on AOL and also on Earthlink for a short time in the late 90s.
 
+- I enjoy retro- computing and 8 bit, 16bit and early 32bit systems
+
 - My code base has historically been:
 - - C++ 98
   - Microsoft BASIC on 8 and 16 bit systems.
   - Zilog Z-80, MOS 6502, Motorola 680x0 and Intel 8086/8088 processor develompent in C, BASIC and Assembly
   - HTML, CSS, Javascript, SQL, PHP and Ajax.
+
+    *I mostly learned pre ES5 Javascript and am trying to catch up with all the new Javascript goodies.
+    *I started learning HTML in 1997.
+    
   - Writing device drivers in C for 'Legacy' devices. Once Plug-n-Play came into play,where the 'Generic Windows Device Drivers library'; Windows could not properly enumerate/identify the device correctly or much less than that actually work, so it usually set it up with a generic driver for a specific device vs a OEM driver.
   
  - 💬 You may also see me occasionally produce videos for my YouTube channel gbowne1 and or live stream from Twitch.  
