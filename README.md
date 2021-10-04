@@ -15,7 +15,7 @@ I also am into radio and electrionics hobbies, as well as designing computers in
   --My current electronics projects are on Hackaday.io but i have not had time to update them.
     * a 68030 50MHz system 
     * a dual CPU computer that has a Z80 and a 8086/8088 CPU.  [almost like the Digital [DEC] Rainbow 100]
-    * a rackmount VHF-UHF scanner with quad DSP
+    * a rackmount VHF-UHF scanner with quad DSP and software.
     * a multi-board/planar CNC control
     * a computer based on a Motorola MC68000P8 CPU chip and 16MB
     * a EATX size Socket 462 mainboard/motherboard
@@ -90,3 +90,18 @@ We are on a mission to gain at least 40 more active participating members. It do
 
 - ⚡ Fun fact: ...
 --> I don't really have any good fun facts but you are always welcome to ask me anything related to the above.  I know stuff, just not all the things.
+
+Hi there! I'm Greg. Always open to chat about my projects, general coding questions, or anything in between. Drop a line and say "hello"!
+
+### 📚 Content I've Made
+
+- 📖 [Blog posts](https://gbowne1.com/blog)
+- 📸 [Livestreams](https://www.twitch.tv/gbowne1) and (https://wwww.twitch.tv/taotnpwaft)
+- 📼 [Videos](https://www.youtube.com/channel/gbowne1)
+- 🎧 
+
+
+### 📧 How To Reach Me
+- 🐣 
+- 💜 [Discord](https://discord.com/invite/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/)
