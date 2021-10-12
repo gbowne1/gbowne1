@@ -91,6 +91,18 @@ We are on a mission to gain at least 40 more active participating members. It do
 - ⚡ Fun fact: ...
 --> I don't really have any good fun facts but you are always welcome to ask me anything related to the above.  I know stuff, just not all the things.
 
+- 👋 Hi, I’m @itsbeeut
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+itsbeeut/itsbeeut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+
 Hi there! I'm Greg. Always open to chat about my projects, general coding questions, or anything in between. Drop a line and say "hello"!
 
 ### 📚 Content I've Made
