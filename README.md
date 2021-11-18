@@ -1,119 +1,156 @@
-Hi there 👋 my name is Gregory Bowne aka gbowne1.  I am a 44 year old small business owner in the manufacturing sector.  I own a machine and fabrication / engineering workshop with ~250 employees as of 4/30/2021.  I also do manufacturing consulting as well as ERP & MRP software consutling for the major ERP and MRP software packages for regional manufacturing compaines and small machine shops.
+# About Me
 
-Some people have a hard time pronouncing my last name properly, so I prefer most people call me Greg or GB.  But if you go to this website and listen to the audio you can hear the correct pronunciation.  https://www.howtopronounce.com/bowne
+  Hi there 👋 my name is Gregory Bowne aka gbowne1.  I am a 44 year old small business owner in the manufacturing sector in the great Pacific Northwest USA. I own a machine and fabrication / engineering workshop with ~250 employees as of 4/30/2021.  I also do manufacturing consulting as well as ERP & MRP software consutling for the major ERP and MRP software packages for regional manufacturing compaines and small machine shops.
 
-I am easy to find online if you search gbowne1 in google and that has been my user name since the 90s..  I have LinkedIn, Facebook, YouTube, Instagram. Twitch.
+  Some people have a hard time pronouncing my last name properly, so I prefer most people call me Greg or GB.  But if you go to this website and listen to the audio you can hear the correct pronunciation.  https://www.howtopronounce.com/bowne
+
+  I am easy to find online if you search gbowne1 in google and that has been my user name since the 90s..  I have LinkedIn, Facebook, YouTube, Instagram. Twitch.
+
+  😄 Pronouns: ... He, Him however I prefer you actually refer to me by name.
+
+## My current work
 
 I have written 19 technical articles on Metrology and Metallurgy and several on manufacturing and metalworking processes.
 
 I do not work as a developer out in the wild.  I am not looking for a job in a developer role.  I code as a hobby, mostly working on my own projects.
 
+I am experienced in Mechanical CAD, CAM and CNC Propgramming. 
+
+
+## My past work
+
+I was a BBS System Operator with a 4 Line Wildcat! BBS System plenty of file door's, download libraries from 1991-1996.
+
+## My Hobbies
+
 I have tons of hobbies and most of them are crafts.  I also enjoy tech hobbies and programming.  I used to do a lot of coding pre-2003 but had to stop in order to focus on the growth of business. I used to love building PC's and will get into doing that again.  I have done most of my own IT work for my home and business with the help of a couple friends I have met over the years.
 
-I also am into radio and electrionics hobbies, as well as designing computers in the 8, 16 and early 32bit realm.  
+I also am into radio hobbies and electrionics hobbies, as well as designing computers in the 8, 16 and early 32bit realm.
 
-  --My current electronics projects are on Hackaday.io but i have not had time to update them.
-    * a 68030 50MHz system 
-    * a dual CPU computer that has a Z80 and a 8086/8088 CPU.  [almost like the Digital [DEC] Rainbow 100]
-    * a rackmount VHF-UHF scanner with quad DSP and software.
-    * a multi-board/planar CNC control
-    * a computer based on a Motorola MC68000P8 CPU chip and 16MB
-    * a EATX size Socket 462 mainboard/motherboard
-    * a dual Pentium II mainboard/motherboard
-    
-  -- to recreate boards for the Mac Plus and SE / SE-30
+## Projects  
+
+-- My current electronics projects are on Hackaday.io but I have not had time to update them.
+
+* a 68030 50MHz system on a 9x12 PCB
+* a dual CPU computer that has a Z80 and a 8086/8088 CPU.  [almost like the Digital [DEC] Rainbow 100]
+* a rackmount VHF-UHF scanner with quad DSP and software with four (4) TI DSP TMS320's
+* a multi-board/planar CNC control
+* a computer based on a Motorola MC68000P8 CPU chip and 16MB RAM
+* a EATX size Socket 462 mainboard/motherboard
+* a dual Pentium II mainboard/motherboard
   
-    
-I am currently working on several long term electronics projects including mostly computers in the Motorola 68k and also a few others.
+## Future Projects
+
+  to recreate either schematics and/or boards for the Mac Plus and SE / SE-30
+
+  I am currently working on several long term electronics projects including mostly computers in the Motorola 68k and also a few others.
+
+## My Computer(s)
 
 My current system is based on a newer generation of Intel Core i7 at almost 4GHz and is fine for my needs.  I have 32GB of RAM and a 2gb Nvidia Quadra 4000 and a total local disk space of 8TB. I have several home servers including mostly Dell R series including R710, R720 and R730's and a pair of MD1200's.  I have a 2nd system for doing CAD and CAM programming for CNC machinery.
 
 I no longer actively run Windows, post Windows 7 EOL in [January 2020].  I have lots of experience with 95, 98, XP, ME, 2000, Vista and 7. Active Directory, IIS and PowerShell.  I am also experienced with Microsoft Office through Office 2010 Professional, especially Access.
 
+My other server is a HP Proliant DL360G7 with 32GB of RAM that I am in the process of upgrading from a base model.  It runs my personal websites with Apache 2, MySQL, PHP and for now CentOS.
+
 I am running MX Linux on bare metal as well as on a VM using ESXi. I actively use 9 other VM's including CentOS, EndeavourOS, Fedora, Debian, Manjaro, Mint, Ubuntu and Arch, although I am no huge fan of Arch. I also have a FreeBSD VM.  My favorite distro base is Debian.  
+
+### My IDE/Editor
 
 My base editor is Visual Studio Code.  My alternate is Sublime.  Yes, I have others installed and have used others especially Visual Studio 2019.
 
-- 🔭 I’m currently working on:
-  - RadioLogger, A SWL and Radio Hobby related contact logging app in PostgreSQL, Express, REACT, NodeJS.
-  - SPMS ERP/MRP, A ERP/MRP app in the same stack as above, a replacement for Odoo, JobBoss, E2 Shop, etc.
-  - The Art of Tech:NPWAFT website for our group.
-  - SPMS's website to replace the one on Webs.com 
-  - Personal Blog, Portfoilio site in WordPress
-  - TwitchBot for Twitch Streamers in Javascript using TMI.js
+## My Browser
 
-- TODO's and Future projects
-   - TODO & Task Tracker
-   - Python Calculator
-   - x86 IA-32 OS and BIOS
-   - C++ Gradebook
-   - C++ Accounting System
+I should probably use Chrome but.. I use Firefox.  But that being said, I also test with Chrome Developer Tools.
 
-As for a "License" I chose GNU GPL 3.0 as it seems to fit my style.
+### My Coding Projects
+
+* RadioLogger, A SWL and Radio Hobby related contact logging app in PostgreSQL, Express, REACT, NodeJS.
+* SPMS ERP/MRP, A ERP/MRP app in the same stack as above, a replacement for Odoo, JobBoss, E2 Shop, etc.
+* The Art of Tech:NPWAFT website for our group.
+* SPMS's website to replace the one on Webs.com 
+* Personal Blog, Portfoilio site in WordPress
+* TwitchBot for Twitch Streamers in Javascript using TMI.js
   
-- 🌱 I’m currently learning HTML5, CSS3, ES5/ES6 Javascript, REACT, NodeJS, Express, PostgreSQL.  I am also trying to learn components like Babel, Webpack, etc.
+### TODO's and Future Coding projects
 
-- 👯 I’m looking to invite people to help with and collaborate with me on TwitchBot and RadioLogger and SPMS ERP/MRP especially and gain community contributions to the projects.
+* TODO & Task Tracker
+* Python Calculator
+* x86 IA-32 OS and BIOS complete with GUI mainly for 386DX and 486DX CPU's  
+* C++ Gradebook
+* C++ Accounting System
+* C++ Material Usage Calculator
 
-- 🤔 If you need help with a project I do sometimes contribute to open source projects.. but generally only have time to give advice.  I am truly sorry I couldn't help more.
+As for a "Software License" I chose GNU GPL 3.0 as it seems to fit my style and needs.
 
-- 💬 Ask me about The Art of Tech: Not Playing with a Full Tech which is a social media tech group.  We started on Facebook in March 2020.  We encourage you to join and become part of our awesome community we are trying to build of people that work in IT and programming and various other tech fields as well as hobbyists that enjoy tech.
- 
-    {Please see this link for our links: https://linktr.ee/taotnpwaft}
- 
+## Education / Learning
+
+I’m currently learning HTML5, CSS3, ES5/ES6 Javascript, REACT, NodeJS, Express, PostgreSQL.  I am also trying to learn components like Babel, Webpack, etc.
+
+### I would like to learn:
+
+  Vue             Material UI       
+  Angular         NPM
+  Mocha           ESLint
+  Axios           Vim
+  Lodash          IntelliJ IDEA
+
+## Colaboration & Sponsorship  
+
+* I’m looking to invite people to help with and collaborate with me on TwitchBot and RadioLogger and SPMS ERP/MRP especially and gain community contributions to the projects.
+
+* If you need help with a project I do sometimes contribute to open source projects.. but generally only have time to give advice.  I am truly sorry I couldn't help more.
+
+## My Community
+
+Ask me about The Art of Tech: Not Playing with a Full Tech which is a social media tech group.  We started on Facebook in March 2020.  We encourage you to join and become part of our awesome community we are trying to build of people that work in IT and programming and various other tech fields as well as hobbyists that enjoy tech.
+
+    {Please see this link for our links: https://linktr.ee/taotnpwaft}  and click on any of the Green Button Links.
+
 Looking for people to help develop and/or serve our website and email, which likely will reside at https://www.taotnpwaft.org 
 
-We are on a mission to gain at least 40 more active participating members. It doesn't cost you anything to join.  Especially in our Discord Server.  Most of us currently in the group, are or have been once in the tech fields.. IT, Networking, Programming, Systems Admin.. etc.
-    
-- 🤔 I’m looking for help with our tech group..  Staff, Admins, Moderators, content creators, etc.  Click on each green link button which will take you to the various links for our groups.  We mainly chat on Discord.  I have not had exentive amounts of time to develop the Facebook group further.  I am looking for someone to help with posting content to our YouTube and our Facebook.   
-    
-- 📫 How to reach me: I have Instagram, Facebook, LinkedIn, Twitch, YouTube. all have the same name and github ID as this repo.  Reach out to me if you would like to help with any of my projects or with TAOT:NPWAFT.  Most of the repos have the Discussions tab turned on.
+We are on a mission to gain at least 40-50 more active participating members especially from North America. It doesn't cost you anything to join.  Especially in our Discord Server.  Most of us currently in the group, are or have been once in the tech fields.. IT, Networking, Programming, Systems Admin.. etc. 
 
-- I often ask for help code reviews while I learn new things, especially on coding streams on Twitch or in various Discord servers I participate in..  Keep in mind that my primary experience came from pre-2003 coding tools and technologies especially within Windows.  I wrote my first website which was hosted on AOL and also on Earthlink for a short time in the late 90s.
 
-- I enjoy retro- computing and 8 bit, 16bit and early 32bit systems
 
-- My code base has historically been:
-- - C++ 98
-  - Microsoft BASIC on 8 and 16 bit systems.
-  - Zilog Z-80, MOS 6502, Motorola 680x0 and Intel 8086/8088 processor develompent in C, BASIC and Assembly
-  - HTML, CSS, Javascript, SQL, PHP and Ajax.
+I’m looking for help with our tech group..  Staff, Admins, Moderators, content creators, etc.  Click on each green link button which will take you to the various links for our groups.  We mainly chat on Discord.  I have not had exentive amounts of time to develop the Facebook group further.  I am looking for someone to help with posting content to our YouTube and our Facebook.
 
-    *I mostly learned pre ES5 Javascript and am trying to catch up with all the new Javascript goodies.
-    *I started learning HTML in 1997.
-    
-  - Writing device drivers in C for 'Legacy' devices. Once Plug-n-Play came into play,where the 'Generic Windows Device Drivers library'; Windows could not properly enumerate/identify the device correctly or much less than that actually work, so it usually set it up with a generic driver for a specific device vs a OEM driver.
+Have a look at [The Art of Tech: Not Playing with a Full Tech](https://www.github.com/gbowne1/taotnpwaft) for more about our group and to contribute to the community especially in building core documentation and foundation.
+
+## Contact
+
+* 📫 How to reach me: I have Instagram, Facebook, LinkedIn, Twitch, YouTube. all have the same name and github ID as this repo.  Reach out to me if you would like to help with any of my projects or with TAOT:NPWAFT.  Most of the repos have the Discussions tab turned on.
+
+* I often ask for help code reviews while I learn new things, especially on coding streams on Twitch or in various Discord servers I participate in..  Keep in mind that my primary experience came from pre-2003 coding tools and technologies especially within Windows.  I wrote my first website which was hosted on AOL and also on Earthlink for a short time in the late 90s.
+
+* I enjoy retro- computing and 8 bit, 16bit and early 32bit systems
+
+## My Codebase & Style
+
+* C++ 98
+* Microsoft BASIC on 8 and 16 bit systems.
+* Zilog Z-80, MOS 6502, Motorola 680x0 and Intel 8086/8088 processor develompent in C, BASIC and Assembly
+* HTML, CSS, Javascript, JQuery, SQL, PHP and Ajax.
+
+* I mostly learned pre ES5 Javascript and am trying to catch up with all the new Javascript goodies.
+* I started learning HTML and CSS in 1997.
+
+I started writing device drivers in C for 'Legacy' devices. Once Plug-n-Play came into play, the 'Generic Windows Device Drivers library' and I found out that  Windows could not properly enumerate/identify the device correctly or much less than that actually work, so it usually set it up with a generic driver for a specific device vs a OEM driver.
   
  - 💬 You may also see me occasionally produce videos for my YouTube channel gbowne1 and or live stream from Twitch.  
 
--  😄 Pronouns: ... He, Him however I prefer you actually refer to me by name.
+⚡ Fun fact: ...
 
-- ⚡ Fun fact: ...
---> I don't really have any good fun facts but you are always welcome to ask me anything related to the above.  I know stuff, just not all the things.
+I don't really have any good fun facts but you are always welcome to ask me anything related to the above.  I know stuff, just not all the things.  I do like to learn all the things so that things do not become hinderances 
 
-- 👋 Hi, I’m @itsbeeut
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👀 I’m interested in ...
+📫 How to reach me ...
+🎧 I have a Pandora staton 
 
-<!---
-itsbeeut/itsbeeut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-Hi there! I'm Greg. Always open to chat about my projects, general coding questions, or anything in between. Drop a line and say "hello"!
+I am Always open to chat about my projects, general coding questions, or anything in between. Drop a line and say "hello"!
 
 ### 📚 Content I've Made
 
-- 📖 [Blog posts](https://gbowne1.com/blog)
-- 📸 [Livestreams](https://www.twitch.tv/gbowne1) and (https://wwww.twitch.tv/taotnpwaft)
-- 📼 [Videos](https://www.youtube.com/channel/gbowne1)
-- 🎧 
-
-
-### 📧 How To Reach Me
-- 🐣 
-- 💜 [Discord](https://discord.com/invite/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/)
+* [Blog posts](https://gbowne1.com/blog)
+* [Livestreams](https://www.twitch.tv/gbowne1) and (https://wwww.twitch.tv/taotnpwaft)
+* [Videos](https://www.youtube.com/channel/gbowne1)
