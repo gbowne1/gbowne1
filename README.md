@@ -14,8 +14,7 @@ I have written 19 technical articles on Metrology and Metallurgy and several on 
 
 I do not work as a developer out in the wild.  I am not looking for a job in a developer role.  I code as a hobby, mostly working on my own projects.
 
-I am experienced in Mechanical CAD, CAM and CNC Propgramming. 
-
+I am experienced in Mechanical CAD, CAM and CNC Propgramming.  The core of my experience is primarily AutoCAD 2002-2009, but switched to Fusion 360 in mid 2013.  I became an Autodesk Certified Instructor in July 2005.  
 
 ## My past work
 
