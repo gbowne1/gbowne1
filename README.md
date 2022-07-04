@@ -1,6 +1,6 @@
 # About Me
 
-Hi there 👋 my name is Gregory Bowne aka gbowne1.  I am a 44 year old small business owner in the manufacturing sector in the great Pacific Northwest USA.  
+Hi there 👋 my name is Gregory Bowne aka gbowne1.  I am a 45 year old small business owner in the manufacturing sector in the great Pacific Northwest USA. 
 
 Some people have a hard time pronouncing my last name properly, so I prefer most people call me Greg or GB.  But if you go to this website and listen to the audio you can hear the correct pronunciation. Please see: [How to Pronounce my name](https://www.howtopronounce.com/bowne).  
   
@@ -116,7 +116,7 @@ I should probably use Chrome but.. I use Firefox.  But that being said, I also t
 
 * RadioLogger, A SWL and Radio Hobby related contact logging app in PostgreSQL, Express, REACT, NodeJS.
 * SPMS ERP/MRP, A ERP/MRP app in the same stack as above, a replacement for Odoo, JobBoss, E2 Shop, etc.
-* The Art of Tech:NPWAFT website for our group. Please see: [TAOT:NPWAFT Site Repository](https://www.github.com/gbowne1/taotnpwaft_site/)
+* The Art of Tech:NPWAFT website for our group. Please see: [TAOT:NPWAFT Site Repository](https://www.github.com/taotnpwaft/website/)
 * SPMS's website to replace the one on [Webs.com](https://precisionmachineshop.webs.com)  
 * Personal Blog, Portfoilio site in WordPress
 * TwitchBot for Twitch Streamers in Javascript using TMI.js library
@@ -160,7 +160,7 @@ We are on a mission to gain at least 40-50 more active participating members esp
 
 I’m looking for help with our tech group..  Staff, Admins, Moderators, content creators, etc.  Click on each green link button which will take you to the various links for our groups.  We mainly chat on Discord.  I have not had extensive amounts of time to develop the Facebook group further.  I am looking for someone to help with posting content to our YouTube, Facebook and our other platforms.
 
-Have a look at [The Art of Tech: Not Playing with a Full Tech](https://www.github.com/gbowne1/taotnpwaft) for more about our group and to contribute to the community especially in building core documentation and foundation.
+Have a look at [The Art of Tech: Not Playing with a Full Tech](https://www.github.com/taotnpwaft) for more about our group and to contribute to the community especially in building core documentation and foundation.
 
 There will be some paid staff positions in the future.
 
