@@ -1,6 +1,6 @@
 # About Me
 
-Hi there 👋 my name is Gregory Bowne aka gbowne1.  I am a 45 year old small business owner in the manufacturing sector in the great Pacific Northwest USA. 
+Hi there 👋 my name is Gregory Bowne aka gbowne1.  I am a 46 year old small business owner in the manufacturing sector in the great Pacific Northwest USA. 
 
 Some people have a hard time pronouncing my last name properly, so I prefer most people call me Greg or GB.  But if you go to this website and listen to the audio you can hear the correct pronunciation. Please see: [How to Pronounce my name](https://www.howtopronounce.com/bowne).  
   
