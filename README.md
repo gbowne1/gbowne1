@@ -1,64 +1,100 @@
 # 👋 Hi, I'm Gregory Bowne (aka gbowne1)
 
-I'm a 48-year-old from the Pacific Northwest 🇺🇸 with a passion for tech, CNC, vintage computing, electronics, homebrew computing, OSDev and radio hobbies. Most people just call me **GB**. You can hear how to pronounce my last name [here](https://www.howtopronounce.com/bowne).
+I'm a 48-year-old from the Pacific Northwest 🇺🇸 with a passion for tech, CNC, vintage computing, electronics, OSDev, and radio hobbies. Most people just call me **GB**.  
+🔊 [How to pronounce "Bowne"](https://www.howtopronounce.com/bowne)
 
-## 👨‍🏭 What I Do
+---
 
-- 🏭 Did I mention hobbyist developer
-- 💼 Occasional legacy FANUC CNC support
-- 💻 OS Development, x86 IA-32, i386/486/586/686
-- 🛠️ Hobbyist Developer
-- 🧰 Occasional custom CNC programs for 3/4-axis mills & lathes and G Code
+## 🧰 What I Do
 
-## 🧠 Not a dev by trade — I code for fun.
+- 🛠️ Hobbyist Developer (x86 IA32)
+- 💼 Legacy FANUC CNC support (3/4-axis G-code)
+- 💻 OS Development (x86 IA-32 / i386 / 486 / 586 / 686)
+- 🧠 Lifelong learner in all things code and hardware
 
-Mostly side/personal projects — not looking for dev work. I enjoy learning modern web stacks & building stuff just because I can. Ask me about my history.
+> 💡 *I code for fun, not for hire.*
 
-## ⚙️ Tech Stack
+---
 
-- 💻 OS: MX Linux, ESXi VMs, Debian-based distros
-- 🖥️ Editor: VS Code / Sublime / Vim
-- 🌐 Browser: Firefox (and Chrome Dev Tools)
-- 🧱 Stack: HTML5, CSS3, JS (ES6), REACT, NodeJS, Express, PostgreSQL
+## ⚙️ Tech Stack & Tools
 
-## 🛠️ Projects
+**OS & Platforms**: MX Linux, Debian 10, Debian 11, Debian 12, FreeBSD on amd64 
+**OS & Platforms**: Solaris 10/11 on sparc (e4900, v440, v880)
+**Editors**: VS Code • Sublime Text • Vim • Vi • Kate •
+**Browser**: Firefox 
+**Languages**:  
+`Microsoft BASIC` • `C` • `C++` • `C#` • `FORTRAN 77` • `JavaScript` • `Perl 5` • `PHP 8` • `Python 3` • `SQL` • ``, 
 
-## 📡 Hobbies & Cool Stuff
+**Stack**:  
+HTML5 • CSS3 • JavaScript (ES6+) • React 18 • Node.js • Express • PostgreSQL • MongoDB
 
-- 📻 Shortwave/MW/AM DXing (big loop antenna guy!)
-- 🔩 
-- 🧠 Learning programming always!
+---
 
-## 🖥️ Gear
+## 📚 Current
 
-- 🎮 Main Rig: i7-6700K, 32gb, ASUS Z170A
-- 🖥️ 
-- 🖥️ Server(s) HP DL360 Gen 7, Dell R720, Dell R930 and others
-- 🔌 Lab: 
+- 🔍 Advanced ES6 and ES7 JavaScript
+- 🧱 Full-stack dev (React 18, NodeJS 22, MongoDB, PostgreSQL, MySQL, MariaDB, Express
+- 💾 x86 Assembly + deeper dive into OSDev
 
+---
 
-## Languages I use
+## 📡 Hobbies
 
-BASIC, C, C++, C#, FORTRAN 77, JavaScript, Perl 5, PHP 8, Python 3, SQL
+- 📻 Shortwave/MW/AM DXing (loop antennas FTW!)
+- Antenna Design for 1700kHz through 1GHz
+- 🧠 Retro computing, DIY electronics
+- 🔧 OS Development
 
-## 🧑‍🎓 Currently Learning
+---
 
-- 📚 ES6 & ES7 Javascript, React 18, Node 22, PostgreSQL 17, MongoDB
-- 💡 Diving deeper into modern dev tooling.
-- 🔧 Also brushing up on x86 32 bit assembly + OSDev
+## 🖥️ My Rig & Lab
 
-## 🤝 Collab With Me
+- 🖥️ Main Rig: i7-6700K • 32GB RAM • ASUS Z170A
+- 🖧 Homelab Servers: HP DL360 Gen7, Dell R720, R930 & more
+- ⚡ Bench tools, vintage systems, SBCs, oscilloscopes, logic analyzers
 
-Want to help out on one of my coding projects? PR's are welcomed.  Bugs and issues are welcomed as well. I'm always open to chat and collab — especially with folks who love vintage tech, modern JS stacks, or building from scratch.. especially OS Development. There will be no paid projects here, sorry.
+---
 
-- 🔗 See the github https://github/gbowne1/ list of projects 
-- 👥 Community building: Discord, GitHub, Twitch.tv
+## 📌 Featured Projects
 
-## 📫 Reach Me
+| 🧪 Project | 🌟 Description |
+|-----------|---------------|
+| [**reactsocialnetwork**](https://github.com/gbowne1/reactsocialnetwork) | 🧑‍🤝‍🧑 Full-stack React 18 social media platform |
+| [**codebooker**](https://github.com/gbowne1/codebooker) | 📚 Share, review & track dev books — built in React 18 |
+| [**ProgrammerNotes**](https://github.com/gbowne1/ProgrammerNotes) | 📝 Markdown collection of useful dev how-tos |
+| [**ClassicOS**](https://github.com/gbowne1/ClassicOS) | 🖥️ 32-bit x86 custom OS in C & Assembly (not Linux-based!) |
+| [**SavvyBudget**](https://github.com/gbowne1/SavvyBudget) | 💸 Personal finance & budgeting app (React 18) |
+| [**TwitchBot**](https://github.com/gbowne1/TwitchBot) | 🤖 Twitch chat bot with React 18 dashboard uses tmi.js |
+| [**fashion-marketplace**](https://github.com/gbowne1/fashion-marketplace) | 🛍️ Lingerie eCommerce site template (React 18) |
+| [**StarshipAscension**](https://github.com/gbowne1/StarshipAscension) | 🚀 C++ space adventure game |
+| [**dotfiles**](https://github.com/gbowne1/dotfiles) | ⚙️ `.vimrc`, `.bashrc`, and sysadmin shell toolkit |
+| [**json-maestro**](https://github.com/gbowne1/json-maestro) | 🧩 Python JSON manipulation tool |
+| [**XOpenPlayer**](https://github.com/gbowne1/XOpenPlayer) | 🎵 Multimedia player for X11 in C |
+| [**MyBlog**](https://github.com/gbowne1/MyBlog) | ✍️ .NET 8 personal blog platform |
+| [**whispering-woods-adventure**](https://github.com/gbowne1/whispering-woods-adventure) | 🧙‍♂️ C# console text adventure |
+| [**Diskscape**](https://github.com/gbowne1/Diskscape) | 📊 Golang disk usage analyzer |
+| [**flickpicker**](https://github.com/gbowne1/flickpicker) | 🎥 Movie night picker with Discord bot |
+| [**discordbot**](https://github.com/gbowne1/discordbot) | 💬 Python-powered Discord bot using discord.py |
+| [**spmssite**](https://github.com/gbowne1/spmssite) | 🌐 Website template project |
 
-Find me anywhere as `gbowne1` (LinkedIn, GitHub, Twitch, YouTube, etc.)  
-Or visit: [gbowne1.com](https://gbowne1.com) | [Twitch](https://www.twitch.tv/gbowne1)
+---
+
+## 🤝 Let's Connect
+
+I'm always open to collab on:
+
+- 🧠 OSDev & systems programming
+- ⚙️ CNC & embedded logic
+- 🌐 Modern full-stack JavaScript
+- 🖥️ Retro computing & DIY systems
+
+📬 Find me everywhere as `gbowne1`  
+🔗 [Website](https://gbowne1.com) • [Twitch](https://www.twitch.tv/gbowne1) • Discord, YouTube, LinkedIn
+
+---
+
+> PRs and bug reports welcome. I build for fun, not for profit.
 
 > 💬 Drop a hello anytime. I’m always happy to talk shop, tech, or help with reviews while I learn new stacks!
 
-- 🎧 I have a Pandora staton called Stressed Out Radio here: https://www.pandora.com/station/3960158081900970617
+> 🎧 I have a Pandora staton called Stressed Out Radio here: https://www.pandora.com/station/3960158081900970617
